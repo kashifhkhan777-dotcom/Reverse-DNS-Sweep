@@ -1,0 +1,6 @@
+=== Reverse DNS Sweep of 10.10.13.0/24 ===
+10.10.13.157 -> mail.insecurecorp.local.
+10.10.13.158 -> file.insecurecorp.local.
+10.10.13.159 -> web.insecurecorp.local.
+10.10.13.160 -> complexname.insecurecorp.local.
+chat.insecurecorp.local.
